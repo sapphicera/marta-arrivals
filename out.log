@@ -1,0 +1,6 @@
+[{"train_id":"301006","station":"MIDTOWN STATION","waiting_seconds":"15"},{"train_id":"301006","station":"ARTS CENTER STATION","waiting_seconds":"115"}]
+[{"train_id":"301006","station":"MIDTOWN STATION","waiting_seconds":"8"},{"train_id":"301006","station":"ARTS CENTER STATION","waiting_seconds":"108"}]
+[{"train_id":"301006","station":"ARTS CENTER STATION","waiting_seconds":"100"},{"train_id":"301006","station":"MIDTOWN STATION","waiting_seconds":"0"}]
+[{"train_id":"401606","station":"SANDY SPRINGS STATION","waiting_seconds":"44"}]
+[{"train_id":"401606","station":"SANDY SPRINGS STATION","waiting_seconds":"29"}]
+[{"train_id":"401606","station":"NORTH SPRINGS STATION","waiting_seconds":"56"}]
